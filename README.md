@@ -3,7 +3,7 @@
 ### Data Science is a *multidisciplinary field* that combines statistics, computer science, and domain knowledge.
 
 
-![Image Link](https://imgur.com/a/6HiDeBd)
+![Image Link](https://i.imgur.com/4oFRNFK.png)
 
 
 
